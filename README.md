@@ -24,12 +24,12 @@ The analysis of Mars weather data reveals important information about the climat
 ### Data Visualization
 1. <b>Average Minimum Temperature by Month:</b>
  - A bar chart visually represents the average minimum temperature for each Martian month, highlighting the temperature variations:
-   ![image](https://github.com/Kandacekay/web-scraping-challenge/assets/130207643/f5cfe4ff-b3f8-407b-a2fe-e956184edd26)
+![image](https://github.com/Kandacekay/web-scraping-challenge/assets/130207643/f5cfe4ff-b3f8-407b-a2fe-e956184edd26)
 
 
 2. <b>Atmospheric Pressure by Month:</b>
  - Another bar chart illustrates the average atmospheric pressure for each Martian month, indicating fluctuations in pressure over time:
-   ![image](https://github.com/Kandacekay/web-scraping-challenge/assets/130207643/64e950fe-ccb2-449b-9b1b-b3b0814276d3)
+![image](https://github.com/Kandacekay/web-scraping-challenge/assets/130207643/64e950fe-ccb2-449b-9b1b-b3b0814276d3)
 
 3. <b>Minimum Temperature Over Terrestrial Days:</b>
  - A line plot demonstrates the minimum temperature trends over the span of terrestrial days, providing a visual representation of temperature changes:
